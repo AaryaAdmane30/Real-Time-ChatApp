@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: all;
+}
+
+body,
+html {
+  padding: 0;
+  margin: 0;
+  background-color: white;
+  color: black;
+}
