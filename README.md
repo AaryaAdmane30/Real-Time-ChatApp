@@ -4,7 +4,7 @@ A full-stack real-time chat application built with the MERN stack and **Socket.i
 
 ##  Tech Stack
 
-- **Frontend**: React.js, Axios, Tailwind CSS *(or Bootstrap if used)*
+- **Frontend**: React.js, Axios, Tailwind CSS 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (with Mongoose)
 - **Real-Time Engine**: Socket.io
