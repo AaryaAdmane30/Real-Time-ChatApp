@@ -8,7 +8,7 @@ A full-stack real-time chat application built with the MERN stack and **Socket.i
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (with Mongoose)
 - **Real-Time Engine**: Socket.io
-- **Deployment**: Render / Netlify *(mention if deployed)*
+- **Deployment**: Render : https://real-time-chatapp-2-yqwg.onrender.com
 
 ---
 
